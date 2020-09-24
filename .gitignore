@@ -1,0 +1,6 @@
+# ignore .project created by HBuilder
+*project
+
+*.obj
+
+*.exe
